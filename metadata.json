@@ -1,0 +1,6 @@
+{
+  "name": "Spark X IIIT Bhopal - Crewmate Codefest",
+  "description": "The official Among Us Web Mission 01 event by Spark X IIIT Bhopal. Interactive tasks, airlock gateway, crewmate customization, AI copilot, and live registration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
